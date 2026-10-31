@@ -1,0 +1,71 @@
+Alpine Escape - Visible Attribution License
+Version 1.0
+
+Copyright (c) 2026 realzurr (https://github.com/realzurr)
+
+This is a custom license. It is not the MIT License or the GNU AGPL.
+
+1. Permission
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of the original code and other original materials of this web adaptation
+(the "Software"), to use, copy, modify, merge, publish, distribute,
+sublicense, and/or sell copies of the Software, subject to the following
+conditions.
+
+2. Preservation of notices
+
+The above copyright notice and this entire license shall be included in all
+copies or substantial portions of the Software. Downstream licenses must not
+remove or contradict the attribution obligations below for this Software.
+
+3. Visible attribution
+
+Any interactive version containing the Software or substantial portions of
+it, whether modified or unmodified, that is distributed to others or made
+publicly available, including through a website, must display these credits
+in its main menu or footer:
+
+  Original web adaptation by realzurr - https://github.com/realzurr
+  Inspired by SkiFree (1991), created by Chris Pirih - https://ski.ihoc.net/
+
+Faithful translations of these notices are permitted. The credits must be
+readable, visible to ordinary users without inspecting source code or
+opening the license file, and must not be hidden, obscured or made illegible.
+The website addresses must be clickable links where the interface supports
+links. No particular font, logo, layout or permanent gameplay overlay is
+required, provided that the credits remain visible in the main menu or
+footer. Additional contributors may add their own credits without removing
+or misrepresenting the credits above.
+
+4. Modified versions
+
+Distributed or publicly hosted modified versions must clearly identify that
+they have been modified by their respective maintainers. They must not
+represent realzurr or Chris Pirih as the author of those modifications or
+imply their endorsement. This license does not require publishing source
+code, submitting changes to realzurr, or notifying realzurr of modifications.
+
+5. Original game and third-party rights
+
+This license covers only material of this web adaptation that its licensor
+has the right to license. It grants no rights in the original SkiFree
+executable, third-party assets, or third-party trademarks. Those rights
+remain with their respective owners. The reference to Chris Pirih is an
+acknowledgment of the original game's inspiration, not a claim that he
+authored or endorsed this web adaptation.
+
+6. No warranty
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. TO THE EXTENT
+PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN
+ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+7. Previously licensed copies
+
+This license governs copies offered under it. It does not revoke permissions
+already granted for copies previously received under the MIT License.
