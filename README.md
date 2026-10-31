@@ -2,7 +2,7 @@
 
 **Alpine Escape** é um jogo independente para navegador, inspirado no clássico **SkiFree (1991)**, de Chris Pirih: desça a montanha, desvie dos obstáculos, execute manobras e tente escapar dos Pés Grandes.
 
-O jogo usa HTML, CSS e JavaScript puro, com gráficos desenhados em Canvas e áudio sintetizado. O executável original `Ski.exe`, localizado na pasta superior, permanece separado e não é necessário para jogar.
+O jogo usa HTML, CSS e JavaScript puro, com gráficos desenhados em Canvas e áudio sintetizado.
 
 ## Como jogar
 
